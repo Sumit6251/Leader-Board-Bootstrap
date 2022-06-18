@@ -1,0 +1,27 @@
+body{
+    background-color: #f3f1ff;
+}
+
+.heading-margin {
+    padding: 23px 0;
+}
+hr {
+    border: 1px solid #D1D1D1;
+    margin-top: 50px;
+}
+.blog-details span{
+    color: #6b48ff;
+}
+.course-title p{
+    color: #ED6B4F;
+}
+.rating{
+    color:#ffc014;
+}
+.duration {
+    margin-left: 45px;
+    border-radius: 10px;
+    color: #ED6B4F;
+    background-color: #fee5df;
+    padding: 0 6px;
+}
